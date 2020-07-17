@@ -1,2 +1,2 @@
 # Kattis Solutions
-Solutions for Kattis programming problems that I have solved. Written in Java.
+Solutions for Kattis programming problems that I have solved. Most are written in Java, some in Python.
